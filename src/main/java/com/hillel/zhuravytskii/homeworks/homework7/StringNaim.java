@@ -83,7 +83,7 @@ public class StringNaim {
                 return;
             }
 
-            System.out.println("Ви не вгадали");
+            System.out.println("Ви не вгадали.");
             char[] chWord = word.toCharArray();
 
             for(int i = 0; i < chs.length && i < chWord.length; ++i) {
