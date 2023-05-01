@@ -79,7 +79,7 @@ public class StringNaim {
             }
 
             if (word.equals(words[n])) {
-                System.out.println("Ви вгадали");
+                System.out.println("Ви вгадали.");
                 return;
             }
 
