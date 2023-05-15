@@ -1,0 +1,4 @@
+FILE: C:\Users\Алексей\IdeaProjects\Zhuravytyskyi.Java.Pro\logs\
+LEVEL: Info
+MAX-SIZE: 100000
+FORMAT: [%s]-[%s]--%s %n
