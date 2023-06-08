@@ -27,7 +27,7 @@ abstract class Animal {
     }
 
     protected void swim(int distance) {
-        if (maxSwim < distance) {
+        if (maxSwim <= distance) {
             System.out.printf("%s can not swim more than %s%n", name, maxSwim);
             return;
         }
